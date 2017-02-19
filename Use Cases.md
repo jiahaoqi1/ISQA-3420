@@ -38,4 +38,4 @@
   
 **Failed End Conditions:** Manager receives and obtains an inaccurate record of policy information for the requested project packages
 
-**Trigger**: Manager has the ability to 
+**Trigger**: Manager identifies a software package to push through
