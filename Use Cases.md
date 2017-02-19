@@ -24,12 +24,18 @@
   
 **Primary Actor:** Manager
   
-**Goal in Context:** The manager is able to add new policies or edit exisiting policy information.
+**Goal in Context:** The manager is able to add new policies or edit existing policy information.
   
 **Stakeholders:**
-+ Manager: To change 
-+ Developer: To provide relevant
++ Manager: To create or change policy information for the project
++ Developer: To provide the relevant file and package information  
+
+**Preconditions:**
++ Relevant file/package is in the License and Vulnerabilities database
++ All relevant updates are provided for new and existing policies 
   
-**Main Success Scenario:** Manager receives and obtains an accurate record of policy information for the project
+**Main Success Scenario:** Manager receives and obtains an accurate record of policy information for the requested project packages
   
-**Failed End Conditions:** Manager receives and obtains an inaccurate record of policy information for the project
+**Failed End Conditions:** Manager receives and obtains an inaccurate record of policy information for the requested project packages
+
+**Trigger**: Manager has the ability to 
