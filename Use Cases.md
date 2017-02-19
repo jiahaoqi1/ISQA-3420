@@ -39,3 +39,25 @@
 **Failed End Conditions:** Manager receives and obtains an inaccurate record of policy information for the requested project packages
 
 **Trigger**: Manager identifies a software package to push through
+
+
+  ------------------------------------------------------------------------------------------------------------------ 
+  ##3) Title: Determine Policy Information 
+  
+  **Primary Actor:** Manager
+  
+  **Goal in Context:** The manager is able to determine the policy information based on the respective software package. 
+  
+  **Stakheholders:**
+  + Manager: To receive clear and relevant policy information for a software package
+  + Developer: To provide the relevant file and package information
+  
+  **Preconditions:** 
+  + Relevant file/package is in the License and Vulnerabilities database
+  + All known licenses and vulnerabilities are informed
+  
+  **Main Success Scenario**: Manager receives accurate policy information for the requested project packages
+  
+  **Failed End Conditions:** Manager receives inaccurate policy information for the requested project packages
+  
+  **Triggers:** Manager uploads or identifies policy information from the License and Vulnerabilities database
