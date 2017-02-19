@@ -32,4 +32,4 @@
   
 **Main Success Scenario:** Manager receives and obtains an accurate record of policy information for the project
   
-**Failed End Conditions:** Manager receives and obtains fails to update policy information
+**Failed End Conditions:** Manager receives and obtains an inaccurate record of policy information for the project
