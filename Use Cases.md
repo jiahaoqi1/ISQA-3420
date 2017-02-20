@@ -10,7 +10,7 @@
 + Developer: To provide the relevant file and package information
 
 **Preconditions:**
-+ Relevant file/package is sent to Management process
++ Relevant file/package is in the License and Vulnerabilities database
 + Proper project information has been provided
 
 **Main Success Scenario:** Manager receives accurate license and vulnerability information for the requested project packages
@@ -31,13 +31,14 @@
 
 **Preconditions:**
 + Relevant file/package is in the Policies database
-+ All relevant updates are provided for new and existing policies 
++ All relevant updates are provided for new and existing policies
++ All policies are up to date
   
-**Main Success Scenario:** Manager receives and obtains an accurate record of policy information for the requested project packages
+**Main Success Scenario:** Manager is able to add new policies or update existing policy information
   
-**Failed End Conditions:** Manager receives and obtains an inaccurate record of policy information for the requested project packages
+**Failed End Conditions:** Manager is not able to add new policies or update existing policy information
 
-**Trigger**: Manager identifies a software package to push through
+**Trigger**: Manager uploads or identifies policy information from the Policies database
 
 
   ------------------------------------------------------------------------------------------------------------------ 
@@ -59,4 +60,4 @@
   
 **Failed End Conditions:** Manager receives inaccurate policy information for the requested project packages
   
-**Trigger:** Manager uploads or identifies policy information from the License and Vulnerabilities database
+**Trigger:** Manager uploads or identifies policy information based on the respective software package name
