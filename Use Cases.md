@@ -10,7 +10,7 @@
 + Developer: To provide the relevant file and package information
 
 **Preconditions:**
-+ Relevant file/package is in the License and Vulnerabilities database
++ Relevant file/package is sent to Management process
 + Proper project information has been provided
 
 **Main Success Scenario:** Manager receives accurate license and vulnerability information for the requested project packages
@@ -27,11 +27,10 @@
 **Goal in Context:** The manager is able to add new policies or edit existing policy information.
   
 **Stakeholders:**
-+ Manager: To create or change policy information for the project
-+ Developer: To provide the relevant file and package information  
++ Manager: To create or change policy information for the project  
 
 **Preconditions:**
-+ Relevant file/package is in the License and Vulnerabilities database
++ Relevant file/package is in the Policies database
 + All relevant updates are provided for new and existing policies 
   
 **Main Success Scenario:** Manager receives and obtains an accurate record of policy information for the requested project packages
