@@ -10,3 +10,8 @@
 + **Policies:** Database that consists of all policy information of a particular software package
 
 ## Processes:
++ **License Scanner:** A process that scans for licenses of a particular software package 
++ **Management:** A process that controls the licenses and vulnerabilities of a particular software package 
++ **License and Vulnerability Database Query:** A process that returns the license and vulnerabilities request made by a manager and a developer
++ **Retrieve Policy:** A process that returns the policy results back to the manager after he or she requested for policies of a particular software package
++ **Create/Edit Policy:** A process that allows the manager to add a new policy or edit an existing policy
