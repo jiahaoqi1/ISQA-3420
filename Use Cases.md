@@ -10,7 +10,7 @@
 + Developer: To provide the relevant file and package information
 
 **Preconditions:**
-+ Relevant file/package is in the SPDX database
++ Relevant file/package is in the License and Vulnerabilities database
 + Proper project information has been provided
 
 **Main Success Scenario:** Manager receives accurate license and vulnerability information for the requested project packages
