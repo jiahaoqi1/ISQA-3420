@@ -59,4 +59,4 @@
   
 **Failed End Conditions:** Manager receives inaccurate policy information for the requested project packages
   
-**Triggers:** Manager uploads or identifies policy information from the License and Vulnerabilities database
+**Trigger:** Manager uploads or identifies policy information from the License and Vulnerabilities database
