@@ -30,7 +30,7 @@
 + Manager: To create or change policy information for the project  
 
 **Preconditions:**
-+ Relevant file/package is in the Policies database
++ Relevant file is in the Policies database
 + All relevant updates are provided for new and existing policies
 + All policies are up to date
   
