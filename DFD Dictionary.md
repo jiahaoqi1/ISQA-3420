@@ -25,4 +25,4 @@
 + **Policy Result:** Policy information of a particular software package
 + **New/Edited Policy Information:** Allows the manager to add a new policy or edit an existing policy for a particular software package
 + **License and Vulnerability Request:** Request made by the manager and developer in order to see license and vulnerability information of a particular software package
-+ **License and Vulnerability Response:**Results of all the known licenses and vulnerabilities of a particular software package
++ **License and Vulnerability Response:** Results of all the known licenses and vulnerabilities of a particular software package
